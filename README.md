@@ -1,10 +1,9 @@
 #My First Git Repository
 
-#My First Git Repository
 
 
 
-##I can make edits here
+##I can make edits here test
 
 
 ## Project Status
