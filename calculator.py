@@ -21,3 +21,8 @@ def divide(a, b):
     
 def power(a, b):
     return a ** b
+
+
+def square(a):
+    """Return the square of a number"""
+    return a ** 2
