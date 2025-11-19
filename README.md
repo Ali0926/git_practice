@@ -18,3 +18,6 @@ Successfully pushed to GitHub!
 - VS Code provides a visual interface for Git operations
 
 ## Contributions
+# Testing Branch Protection
+
+This change should be blocked by branch protection!
